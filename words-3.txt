@@ -1,0 +1,11 @@
+# domestic
+cat
+dog
+bird
+
+# jungle
+elephant
+tiger
+hippo
+giraffe
+

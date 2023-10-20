@@ -1,0 +1,8 @@
+cat
+dog
+bird
+elephant
+tiger
+hippo
+giraffe
+
